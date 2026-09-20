@@ -16,6 +16,7 @@
 | Web | [websdk-4.17.1.zip](https://github.com/easemob/chat-sdk/raw/dev/web/stable/websdk-4.17.1.zip) | [websdk-5.0.0.zip](https://github.com/easemob/chat-sdk/raw/dev/web/dev/websdk-5.0.0.zip) |
 | 小程序（miniProgram） | [miniProgram-4.17.1.zip](https://github.com/easemob/chat-sdk/raw/dev/miniProgram/stable/miniProgram-4.17.1.zip) | [miniProgram-4.23.0.zip](https://github.com/easemob/chat-sdk/raw/dev/miniProgram/dev/miniProgram-4.23.0.zip) |
 | HarmonyOS | [chatsdk-1.9.0.har](https://github.com/easemob/chat-sdk/raw/dev/HarmonyOS/stable/chatsdk-1.9.0.har) | [chatsdk-1.14.1.har](https://github.com/easemob/chat-sdk/raw/dev/HarmonyOS/dev/chatsdk-1.14.1.har) |
+| Unity | [chat_unity_sdk1.4.2.unitypackage](https://github.com/easemob/chat-sdk/raw/dev/Unity/stable/chat_unity_sdk1.4.2.unitypackage) | - |
 | Windows | [chat_sdk.1.3.2.nupkg](https://github.com/easemob/chat-sdk/raw/dev/windows/stable/chat_sdk.1.3.2.nupkg) | - |
 | Flutter | [pub.dev: im_flutter_sdk](https://pub.dev/packages/im_flutter_sdk) | [pub.dev: im_flutter_sdk](https://pub.dev/packages/im_flutter_sdk) |
 | React Native | [npm: react-native-chat-sdk](https://www.npmjs.com/package/react-native-chat-sdk) | [npm: react-native-chat-sdk](https://www.npmjs.com/package/react-native-chat-sdk) |
