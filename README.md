@@ -11,7 +11,7 @@
 
 | 平台 | 稳定版（stable）                                                                                                                   | 开发版（dev）                                                                                               |
 | --- |-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Android | [easemob-sdk-4.19.4.zip](https://github.com/easemob/chat-sdk/raw/dev/android/stable/easemob-sdk-4.19.4.zip)                   | [easemob-sdk-5.2.1.zip](https://github.com/easemob/chat-sdk/raw/dev/android/dev/easemob-sdk-5.2.1.zip) |
+| Android | [easemob-sdk-4.19.5.zip](https://github.com/easemob/chat-sdk/raw/dev/android/stable/easemob-sdk-4.19.5.zip)                   | [easemob-sdk-5.2.1.zip](https://github.com/easemob/chat-sdk/raw/dev/android/dev/easemob-sdk-5.2.1.zip) |
 | iOS | [iOS_IM_SDK_V4.19.4.zip](https://github.com/easemob/chat-sdk/raw/dev/iOS/stable/iOS_IM_SDK_V4.19.4.zip)                       | [iOS_IM_SDK_V5.2.0.zip](https://github.com/easemob/chat-sdk/raw/dev/iOS/dev/iOS_IM_SDK_V5.2.0.zip)     |
 | Web | [websdk-4.17.1.zip](https://github.com/easemob/chat-sdk/raw/dev/web/stable/websdk-4.17.1.zip)                                 | [websdk-5.2.0.zip](https://github.com/easemob/chat-sdk/raw/dev/web/dev/websdk-5.2.0.zip)               |
 | 小程序（miniProgram） | [miniProgram-4.17.1.zip](https://github.com/easemob/chat-sdk/raw/dev/miniProgram/stable/miniProgram-4.17.1.zip)               | [websdk-5.2.0.zip](https://github.com/easemob/chat-sdk/raw/dev/miniProgram/dev/websdk-5.2.0.zip)       |
